@@ -1,3 +1,0 @@
-# Gil
-Developer Gil
-
